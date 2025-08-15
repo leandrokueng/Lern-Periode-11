@@ -8,6 +8,14 @@ Ich möchte in dieser Lernperiode hauptsächlich in C# und Python programmieren.
 
 ## 15.08.2025
 
-- [ ] Heute möchte ich ein gutes Projekt für Python suchen und studieren.
+- [X] Heute möchte ich ein gutes Projekt für Python suchen und studieren.
 - [ ] Ich möchte mit dem Projekt beginnen.
-- [ ] Ich möchte ein paar Fehler, wie zum Beispiel Links austauschen, beheben. 
+- [X] Ich möchte ein paar Fehler, wie zum Beispiel Links austauschen, beheben. Auf meiner Portfolio Website.
+
+Heute habe ich ein Projekt rausgesucht für Python jedoch weiss ich noch nicht welches ich von beiden nehme. Dazu habe ich an meiner Portfolio Website ein bisschen verfeinert und ich habe noch ein Motivationsschreiben verfasst. Das Motivationsschreiben hat mir viel Zeit gekostet deswegen konnte ich nicht mehr mit meinem eigenen Projekt beginnen. 
+
+## 22.08.2025
+
+- [ ] Heute möchte ich mit meinem Projekt beginnen
+- [ ] Heute möchte ich eine Motivationsschreiben schreiben
+- [ ] Heute will ich mich für das Programmieren Freifach anmelden
