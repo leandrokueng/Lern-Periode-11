@@ -16,6 +16,14 @@ Heute habe ich ein Projekt rausgesucht für Python jedoch weiss ich noch nicht w
 
 ## 22.08.2025
 
-- [ ] Heute möchte ich mit meinem Projekt beginnen
+- [X] Heute möchte ich mit meinem Projekt beginnen
 - [X] Heute möchte ich eine Motivationsschreiben schreiben
 - [X] Heute will ich mich für das Programmieren Freifach anmelden
+
+Heute habe ich angefangen ein Programm in React zu schreiben. Ich mache aktuell eine Website bei der ich ausprobiere. Ich finde es persönlich sehr spannend und ich werde es weiterhin machen. Dazu habe ich ein Motivationsschrieben für die Lufthansa geschrieben und abgeschickt. Das Programmiermodul hat mich sehr interessiert, deswegen habe ich mich da angemeldet. 
+
+## 29.08.2025
+
+- [ ] Heute möchte ich an React weiter programmieren
+- [ ] Heute möchte ich eine Bewerbung schreiben
+- [ ] Heute möchte ich mit Javascript programmieren in meinem Projekt
