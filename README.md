@@ -17,5 +17,5 @@ Heute habe ich ein Projekt rausgesucht für Python jedoch weiss ich noch nicht w
 ## 22.08.2025
 
 - [ ] Heute möchte ich mit meinem Projekt beginnen
-- [ ] Heute möchte ich eine Motivationsschreiben schreiben
-- [ ] Heute will ich mich für das Programmieren Freifach anmelden
+- [X] Heute möchte ich eine Motivationsschreiben schreiben
+- [X] Heute will ich mich für das Programmieren Freifach anmelden
