@@ -29,3 +29,9 @@ Heute habe ich angefangen ein Programm in React zu schreiben. Ich mache aktuell 
 - [X] Heute möchte ich mit Javascript programmieren in meinem Projekt
 
 Heute habe ich mit dem JavaScript Kurs angefangen. Ich habe ebenfalls die Bewerbung für die ZKB fertiggestellt und ich konnte ein bisschen an meinem React Projekt weiterarbeiten. Ich hatte ein bisschen probleme beim React weiterprogrammieren aber mit AI konnte ich weiter kommen. Beim JavaScript Kurs habe ich den Einstieg gemacht und es hat gut funktioniert. 
+
+## 12.09.2025
+
+- [ ] Heute möchte ich am JavaScript Kurs weitermachen
+- [ ] Heute möchte ich eine Bewerbung schreiben
+- [ ] Heute möchte ich an React weiter programmieren
