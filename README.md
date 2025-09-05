@@ -22,8 +22,10 @@ Heute habe ich ein Projekt rausgesucht für Python jedoch weiss ich noch nicht w
 
 Heute habe ich angefangen ein Programm in React zu schreiben. Ich mache aktuell eine Website bei der ich ausprobiere. Ich finde es persönlich sehr spannend und ich werde es weiterhin machen. Dazu habe ich ein Motivationsschrieben für die Lufthansa geschrieben und abgeschickt. Das Programmiermodul hat mich sehr interessiert, deswegen habe ich mich da angemeldet. 
 
-## 29.08.2025
+## 05.09.2025
 
-- [ ] Heute möchte ich an React weiter programmieren
-- [ ] Heute möchte ich eine Bewerbung schreiben
-- [ ] Heute möchte ich mit Javascript programmieren in meinem Projekt
+- [X] Heute möchte ich an React weiter programmieren
+- [X] Heute möchte ich eine Bewerbung schreiben
+- [X] Heute möchte ich mit Javascript programmieren in meinem Projekt
+
+Heute habe ich mit dem JavaScript Kurs angefangen. Ich habe ebenfalls die Bewerbung für die ZKB fertiggestellt und ich konnte ein bisschen an meinem React Projekt weiterarbeiten. Ich hatte ein bisschen probleme beim React weiterprogrammieren aber mit AI konnte ich weiter kommen. Beim JavaScript Kurs habe ich den Einstieg gemacht und es hat gut funktioniert. 
