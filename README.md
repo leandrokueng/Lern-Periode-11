@@ -32,6 +32,8 @@ Heute habe ich mit dem JavaScript Kurs angefangen. Ich habe ebenfalls die Bewerb
 
 ## 12.09.2025
 
-- [ ] Heute möchte ich am JavaScript Kurs weitermachen
-- [ ] Heute möchte ich eine Bewerbung schreiben
-- [ ] Heute möchte ich an React weiter programmieren
+- [X] Heute möchte ich am JavaScript Kurs weitermachen
+- [X] Heute möchte ich eine Bewerbung schreiben
+- [X] Heute möchte ich an React weiter programmieren
+
+
