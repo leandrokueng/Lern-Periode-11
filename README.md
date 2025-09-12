@@ -36,4 +36,10 @@ Heute habe ich mit dem JavaScript Kurs angefangen. Ich habe ebenfalls die Bewerb
 - [X] Heute möchte ich eine Bewerbung schreiben
 - [X] Heute möchte ich an React weiter programmieren
 
+Heute habe ich an dem JavaScript Kurs weitergearbeitet. Es gab dabei keine Probleme und ich konnte gut voran kommen. Ich konnte dazu zwei Bewerbungen rausschicken und meinen Lebenslauf anpassen. Ich habe bei der Programmiersprache React weitergearbeitet und nächstes mal habe ich vor, React in meine Portfolio Website einzubauen.
 
+## 19.09.2025
+
+- [ ] Heute möchte ich React in meine Portfolio-Website einbauen.
+- [ ] Heute möchte ich am JavaScript Kurs weiterarbeiten und dabei den ersten Test abschliessen.
+- [ ] Heute möchte ich eine Bewerbung schreiben.
