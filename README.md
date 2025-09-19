@@ -43,3 +43,11 @@ Heute habe ich an dem JavaScript Kurs weitergearbeitet. Es gab dabei keine Probl
 - [X] Heute möchte ich React in meine Portfolio-Website einbauen.
 - [X] Heute möchte ich am JavaScript Kurs weiterarbeiten und dabei den ersten Test abschliessen.
 - [X] Heute möchte ich eine Bewerbung schreiben.
+
+Heute habe ich an dem JavaScript Kurs gearbeitet und ich habe React in meine Portfolio-Website eingebaut. Dabei habe ich Unternehmen angerufen und nach gefragt ob sie eine Stelle anbieten. Ich habe ebenfalls eine Bewerbung rausgeschickt und ein Motivationsschreiben geschrieben. Der JavaScript Kurs ist gut gelaufen. Ich bin weit gekommen und habe dabei aber auch sehr viel Zeit verbraucht. Ich habe ebenfalls an der LB-324 weitergearbeitet.
+
+## 26.09.2025
+
+- [ ] Heute möchte ich React weiterprogrammieren bei meiner Portfolio Website.
+- [ ] Heute möchte ich an meinem Taskmanager veränderungen im Styles.css vornehmen.
+- [ ] Heute möchte am JavaScript Kurs weiterarbeiten.
