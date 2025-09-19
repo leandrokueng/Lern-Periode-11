@@ -40,6 +40,6 @@ Heute habe ich an dem JavaScript Kurs weitergearbeitet. Es gab dabei keine Probl
 
 ## 19.09.2025
 
-- [ ] Heute möchte ich React in meine Portfolio-Website einbauen.
-- [ ] Heute möchte ich am JavaScript Kurs weiterarbeiten und dabei den ersten Test abschliessen.
-- [ ] Heute möchte ich eine Bewerbung schreiben.
+- [X] Heute möchte ich React in meine Portfolio-Website einbauen.
+- [X] Heute möchte ich am JavaScript Kurs weiterarbeiten und dabei den ersten Test abschliessen.
+- [X] Heute möchte ich eine Bewerbung schreiben.
