@@ -54,4 +54,4 @@ Heute habe ich an dem JavaScript Kurs gearbeitet und ich habe React in meine Por
 
 ## Reflexion
 
-In dieser Lernperiode habe ich sehr viel
+In dieser Lernperiode habe ich sehr viel mit JavaScript und React gearbeitet. Ich habe mich aber auch auf die Moodle Aufträge spezifiziert, vorallem auf diese, die ich nicht in der Schule fertig stellen konnte. In der nächsten Lernperiode möchte ich jedoch mich mehr auf Projekte fokussieren, die ich in Github hochladen kann. 
