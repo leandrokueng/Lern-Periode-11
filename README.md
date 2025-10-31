@@ -48,6 +48,10 @@ Heute habe ich an dem JavaScript Kurs gearbeitet und ich habe React in meine Por
 
 ## 26.09.2025
 
-- [ ] Heute möchte ich React weiterprogrammieren bei meiner Portfolio Website.
-- [ ] Heute möchte ich an meinem Taskmanager veränderungen im Styles.css vornehmen.
-- [ ] Heute möchte am JavaScript Kurs weiterarbeiten.
+- [X] Heute möchte ich React weiterprogrammieren bei meiner Portfolio Website.
+- [X] Heute möchte ich an meinem Taskmanager veränderungen im Styles.css vornehmen.
+- [X] Heute möchte am JavaScript Kurs weiterarbeiten.
+
+## Reflexion
+
+In dieser Lernperiode habe ich sehr viel
